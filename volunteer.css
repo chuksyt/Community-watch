@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+#nav {
+    background-color: rgba(254, 202, 15, 0.8);
+    color: black;
+    font-weight: 700;
+}
+
+#form {
+    min-height: 100vh;
+}
+
+#log_form {
+    background-color: rgba(254, 202, 15, 0.8);
+    border-radius: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
